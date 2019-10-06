@@ -1,0 +1,24 @@
+4Name:        Kerimjan Rejepov                                                                                                                                      |
+Instructor:  Pradhemna Shrestha                                                                                                                                     |
+Description: It is a program that helps the client to ship the package. It lets the client to choose the right shipping                                             |
+             option and calculates the costs after taking the input values such as weight, zipcode of a origin and destination.                                     |
+             By given formula the program computes the value and outputs it for the user.                                                                           |
+                                                                                                                                                                    |
+                                                                                                                                                                    |
+ALGORITHM:                                                                                                                                                          |
+                                                                                                                                                                    |
+1.Declare the variables (Weight, origin zip, destination zip, distance, menu)                                                                                       |
+2.Create a user-friendly menu that will be clear for the user.                                                                                                      |
+3.Include different shipping options on the menu. Include the exit button for the user to stop the program.                                                         |
+4.Create a loop with terminating condition (menu's exit button) that will let the program to run until the user wants to stop it.                                   |
+5.Using switch statement create 3 cases that is responsible for different shipping options.                                                                         |
+6.Focus on the first case.                                                                                                                                          |
+7.Inside first case include a loop that will let the program run even if the user input is out of range. It should explain the user that the input is out of range. |
+8.Create second case that is just like first case but with different shipping price.                                                                                |
+9.Create third case that is just like the first case but with different shipping price.                                                                             |
+10.Work through inner loop first.                                                                                                                                   |
+11.Outer loop should be responsible for keeping the program run and at the end should include goodbye message.                                                      |
+12.Make the program look clear for others to read                                                                                                                   |
+13.Include comments.                                                                                                                                                |
+14.Include header.                                                                                                                                                  |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
